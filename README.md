@@ -1,6 +1,6 @@
 ## 基本情報  
 ・問題：telecom customer(https://www.kaggle.com/datasets/abhinav89/telecom-customer)  
-・データ：Telecom_customer churn.csv(上記Kaggleからダウンロード)
+・データ：Telecom_customer churn.csv(上記Kaggleからダウンロード)  
 ・環境：kaggle notebook  
 |ライブラリ|バージョン|
 ----|----
