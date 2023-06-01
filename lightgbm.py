@@ -1,5 +1,4 @@
-#Dataset：https://www.kaggle.com/datasets/abhinav89/telecom-customer：w
-
+#Dataset：https://www.kaggle.com/datasets/abhinav89/telecom-customer
 
 #lightgbm(python)
 from sklearn.model_selection import train_test_split
